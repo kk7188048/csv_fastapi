@@ -1,0 +1,6 @@
+fastapi
+psycopg2
+uvicorn
+pandas
+asyncpg
+SQLAlchemy
